@@ -18,3 +18,5 @@ This project was created as a placeholder and code will be published shortly.
 ### Contributors
 
 Kevin Wetzel
+
+This utility is open source and the source code is included in the package file. Utility was written by Kevin Wetzel for Jigsaw Security. A commercial version and support is available at www.jigsaw-security.com. 
